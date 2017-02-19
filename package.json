@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "webpack-dev-server --hot --inline --content-base static/"
+    "dev": "webpack-dev-server --hot --inline --content-base static/",
+    "gulp": "gulp sass"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
@@ -16,9 +17,18 @@
     "babel-preset-react": "^6.16.0",
     "babel-preset-stage-0": "^6.16.0",
     "css-loader": "^0.26.1",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^6.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-transform-selectors": "0.0.2",
     "json-loader": "^0.5.4",
+    "merge-stream": "^1.0.1",
     "node-sass": "^4.3.0",
     "postcss-loader": "^1.3.0",
+    "postcss-modules": "^0.6.4",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
     "webpack": "^2.2.1",

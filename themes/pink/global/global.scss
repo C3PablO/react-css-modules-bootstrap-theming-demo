@@ -1,0 +1,100 @@
+body {
+  background: #ffc4fd;
+  color: #ff66fa;
+}
+
+h1 {
+  color: #ff66fa;
+}
+
+h2 {
+  color: #ff66fa;
+}
+
+// react-select
+
+.Select-control {
+  border-color: #ff66fa;
+  background: #ffc4fd;
+}
+
+.Select-option {
+  background: #ffc4fd;
+  color: #ff66fa;
+  &.is-selected {
+    background-color: #ff66fa;
+    color: #ffc4fd;
+  }
+
+  &.is-focused {
+    background-color: #ff66fa;
+    color: #ffc4fd;
+  }
+}
+
+.Select-arrow {
+  border-color: #ff66fa transparent transparent;
+}
+
+.Select-placeholder {
+  color: #ff66fa;
+}
+
+.Select-clear-zone {
+  color: #ff66fa;
+}
+
+.Select--multi .Select-value {
+  border-color: #ff66fa;
+  background-color: transparent;
+}
+
+.Select--multi .Select-value-icon {
+  border-color: #ff66fa;
+}
+
+.Select--multi .Select-value-icon:hover {
+  background: transparent;
+}
+
+.Select--multi .Select-value-icon:focus {
+  background: transparent;
+}
+
+.Select--single > .Select-control {
+  color: #ff66fa;
+}
+
+.Select-menu-outer {
+  border-color: #ff66fa;
+}
+
+.Select-value {
+  color: #ff66fa;
+}
+
+// buttons
+
+.btn-primary {
+  color: #ff66fa;
+  background: transparent;
+  border-color: #ff66fa;
+}
+
+.btn-primary:hover {
+  color: #ff66fa;
+  background: transparent;
+  border-color: #ff66fa;
+}
+
+.btn-primary:focus {
+  color: #ff66fa;
+  background: transparent;
+  border-color: #ff66fa;
+}
+
+.btn-primary:active {
+  color: #ff66fa;
+  background: transparent;
+  border-color: #ff66fa;
+}

@@ -1,0 +1,63 @@
+body#dark {
+  background: black; }
+
+#dark .Select-control {
+  border-color: #333;
+  background: black; }
+
+#dark .Select-option {
+  background: black; }
+
+#dark .Select-arrow {
+  border-color: #333 transparent transparent; }
+
+#dark .Select-placeholder {
+  color: #333; }
+
+#dark .Select-clear-zone {
+  color: #333; }
+
+#dark .Select--multi .Select-value {
+  border-color: #333;
+  background-color: transparent; }
+
+#dark .Select--multi .Select-value-icon {
+  border-color: #333; }
+
+#dark .Select--multi .Select-value-icon:hover {
+  background: transparent; }
+
+#dark .Select--multi .Select-value-icon:focus {
+  background: transparent; }
+
+#dark .Select--single > .Select-control {
+  color: #333; }
+
+#dark .Select-menu-outer {
+  border-color: #333; }
+
+#dark .Select-value {
+  color: #333; }
+
+#dark .btn-primary {
+  color: #333;
+  background: transparent;
+  border-color: #333; }
+
+#dark .btn-primary:hover {
+  color: #333;
+  background: transparent;
+  border-color: #333; }
+
+#dark .btn-primary:focus {
+  color: #333;
+  background: transparent;
+  border-color: #333; }
+
+#dark .btn-primary:active {
+  color: #333;
+  background: transparent;
+  border-color: #333; }
+
+#dark .powers__content {
+  border-color: #333333; }

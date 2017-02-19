@@ -1,0 +1,81 @@
+body {
+  background: black;
+}
+
+// react-select
+
+.Select-control {
+  border-color: #333;
+  background: black;
+}
+
+.Select-option {
+  background: black;
+}
+
+.Select-arrow {
+  border-color: #333 transparent transparent;
+}
+
+.Select-placeholder {
+  color: #333;
+}
+
+.Select-clear-zone {
+  color: #333;
+}
+
+.Select--multi .Select-value {
+  border-color: #333;
+  background-color: transparent;
+}
+
+.Select--multi .Select-value-icon {
+  border-color: #333;
+}
+
+.Select--multi .Select-value-icon:hover {
+  background: transparent;
+}
+
+.Select--multi .Select-value-icon:focus {
+  background: transparent;
+}
+
+.Select--single > .Select-control {
+  color: #333;
+}
+
+.Select-menu-outer {
+  border-color: #333;
+}
+
+.Select-value {
+  color: #333;
+}
+
+// buttons
+
+.btn-primary {
+  color: #333;
+  background: transparent;
+  border-color: #333;
+}
+
+.btn-primary:hover {
+  color: #333;
+  background: transparent;
+  border-color: #333;
+}
+
+.btn-primary:focus {
+  color: #333;
+  background: transparent;
+  border-color: #333;
+}
+
+.btn-primary:active {
+  color: #333;
+  background: transparent;
+  border-color: #333;
+}

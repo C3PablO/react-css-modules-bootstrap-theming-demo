@@ -10,6 +10,7 @@ import Grid from 'react-bootstrap/lib/Grid';
 import Powers from './powers';
 import PowersList from './powers_list';
 import Power from './power';
+import ThemeChooser from './theme_chooser';
 
 //data
 import { traditionalOptions, sillyOptions, coolOptions } from './data.js';
@@ -44,6 +45,7 @@ class App extends Component{
           value={this.state.cool}
         />
         <PowersList options={[...traditional, ...silly, ...cool].sort(sortByLabel)} />
+        <ThemeChooser />
       </Grid>
     );
   }

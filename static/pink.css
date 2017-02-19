@@ -1,0 +1,80 @@
+#pink .powers__content {
+  border-color: #ff66fa; }
+
+body#pink {
+  background: #ffc4fd;
+  color: #ff66fa; }
+
+#pink h1 {
+  color: #ff66fa; }
+
+#pink h2 {
+  color: #ff66fa; }
+
+#pink .Select-control {
+  border-color: #ff66fa;
+  background: #ffc4fd; }
+
+#pink .Select-option {
+  background: #ffc4fd;
+  color: #ff66fa; }
+  #pink .Select-option.is-selected {
+    background-color: #ff66fa;
+    color: #ffc4fd; }
+  #pink .Select-option.is-focused {
+    background-color: #ff66fa;
+    color: #ffc4fd; }
+
+#pink .Select-arrow {
+  border-color: #ff66fa transparent transparent; }
+
+#pink .Select-placeholder {
+  color: #ff66fa; }
+
+#pink .Select-clear-zone {
+  color: #ff66fa; }
+
+#pink .Select--multi .Select-value {
+  border-color: #ff66fa;
+  background-color: transparent; }
+
+#pink .Select--multi .Select-value-icon {
+  border-color: #ff66fa; }
+
+#pink .Select--multi .Select-value-icon:hover {
+  background: transparent; }
+
+#pink .Select--multi .Select-value-icon:focus {
+  background: transparent; }
+
+#pink .Select--single > .Select-control {
+  color: #ff66fa; }
+
+#pink .Select-menu-outer {
+  border-color: #ff66fa; }
+
+#pink .Select-value {
+  color: #ff66fa; }
+
+#pink .btn-primary {
+  color: #ff66fa;
+  background: transparent;
+  border-color: #ff66fa; }
+
+#pink .btn-primary:hover {
+  color: #ff66fa;
+  background: transparent;
+  border-color: #ff66fa; }
+
+#pink .btn-primary:focus {
+  color: #ff66fa;
+  background: transparent;
+  border-color: #ff66fa; }
+
+#pink .btn-primary:active {
+  color: #ff66fa;
+  background: transparent;
+  border-color: #ff66fa; }
+
+#pink .powers_list__content {
+  border-color: #ff66fa; }
