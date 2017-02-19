@@ -1,0 +1,15 @@
+@import '../variables/variables';
+
+.wrapper {
+  composes: mar-1-bottom from global;
+}
+
+.content {
+  composes: mar-1 from global pad-1 from global;
+  border-top: 1px solid $gray-base;
+  height: 100px;
+}
+
+.power {
+  composes: mar-1 from global;
+}

@@ -1,0 +1,27 @@
+@import '../variables/variables';
+
+.wrapper {
+  composes: mar-1-top from global;
+}
+
+.content {
+  composes: mar-1 from global pad-1 from global;
+  border-top: 1px solid $gray-base;
+}
+
+.item {
+  text-decoration: underline;
+}
+
+.item_featured {
+  composes: item;
+  &:before {
+    content: "";
+    display: inline-block;
+    background: $brand-success;
+    width: 10px;
+    height: 10px;
+    margin-right: $spacing1;
+    border-radius: 50%;
+  }
+}
