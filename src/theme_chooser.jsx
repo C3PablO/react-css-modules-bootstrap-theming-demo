@@ -1,7 +1,7 @@
 import React from 'react';
 
 //styles
- import styles from '../style/modules/field_chooser.scss'
+ import styles from '../style/modules/field_chooser.scss';
 
 // components
 import FormGroup from 'react-bootstrap/lib/FormGroup';
