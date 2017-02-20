@@ -8,7 +8,7 @@ const traditionalOptions = [
 
 const sillyOptions = [
   { value: 'Distant TV Chanel Control', label: 'Distant TV Chanel Control' },
-  { value: 'Instant dish washing', label: 'Instant dish washing' },
+  { value: 'Instant Dish Washing', label: 'Instant dish washing' },
   { value: 'Microwave Emission', label: 'Microwave Emission' },
   { value: 'Oil Secretion', label: 'Oil Secretion' },
   { value: 'Tequila Breath', label: 'Tequila Breath' },
