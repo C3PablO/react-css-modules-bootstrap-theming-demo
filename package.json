@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "webpack-dev-server --hot --inline --content-base static/",
-    "gulp": "gulp sass"
+    "themes": "gulp sass"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
