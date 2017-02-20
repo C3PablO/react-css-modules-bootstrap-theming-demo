@@ -10,6 +10,8 @@ This project started from the ideas provided by [vectorsize](https://github.com/
 * Keep react components' `className` clean using css-modules `compose:`.
 * Generate themes overwriting either global classes or component classes.
 * Ability to compile css themes independently of the react application.
+* Components should not know about the theme.
+* Load only the styles for the required theme. Not every theme should be loaded in the core css.
 
 ### Install:
 `npm install`
