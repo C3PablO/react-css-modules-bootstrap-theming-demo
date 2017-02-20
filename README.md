@@ -5,7 +5,7 @@ This project started from the ideas provided by [vectorsize](https://github.com/
 
 ## Scope:
 * limit react components' class names to local scope.
-* Combine css-modules with a global framework (bootstrap 3) and css utility classes.
+* Combine css-modules with a global framework (Bootstrap 3) and css utility classes.
 * Combine with Sass prepocessor.
 * Keep react components' `className` clean using css-modules `compose:`.
 * Generate themes overwriting either global classes or component classes.
