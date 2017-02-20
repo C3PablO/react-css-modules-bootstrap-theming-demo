@@ -1,7 +1,7 @@
 import React from 'react';
 
 //styles
-import styles from '../style/modules/powers.scss'
+import styles from '../style/modules/powers.scss';
 
 //components
 import Select from 'react-select';
