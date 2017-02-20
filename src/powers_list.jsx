@@ -1,7 +1,7 @@
 import React from 'react';
 
 // styles
-import styles from '../style/modules/powers_list.scss'
+import styles from '../style/modules/powers_list.scss';
 
 // components
 import Col from 'react-bootstrap/lib/Col';
