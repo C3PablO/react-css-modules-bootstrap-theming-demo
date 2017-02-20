@@ -33,4 +33,4 @@ and go to `http://localhost:8080/`
 5. Run `nmp run themes`.
 
 ### To do:
-Improve the workflow to generate themes. Currenly the sass syntax is very limited due to the Gulp script in charge of processing the files and generate the themes.
+Generate theme boilerplate.
